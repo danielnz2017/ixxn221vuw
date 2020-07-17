@@ -1,12 +1,175 @@
-body {
 
-    margin: 0;
+/* Menu  */
+.nav1 {
+    
+   
+    background:rgb(22, 136, 230);
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+
+    }
+
+
+.nav1 a {
+
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+    
+}
+
+.nav1 a:hover {
+
+    background-color: rgb(45, 121, 209);
+    color: black;
 
 }
 
-div {
+.ig {
 
-    style="width:1000px;
-    height:500px;
-    border:1px solid #000;"
+    margin-top: 90px;
+    margin-left: -8px;
 }
+
+.lg {
+
+    margin-left: 1350px;
+    margin-top: 5px;
+}
+
+.beach {
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    font-family: 'Pacifico', cursive;
+    color: aliceblue;
+  
+}
+
+.lake {
+
+    position: absolute;
+    top: 138%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    font-family: 'Pacifico', cursive;
+    color: aliceblue;
+  
+}
+
+.farm {
+
+    position: absolute;
+    top: 228%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    font-family: 'Pacifico', cursive;
+    color: aliceblue;
+  
+}
+
+.auk {
+
+    position: absolute;
+    top: 308%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    font-family: 'Galada', cursive;
+    color: aliceblue;
+  
+}
+
+.side {
+    float: left;
+    width: 33.33%;
+    padding: 1px;
+  }
+
+  .city2::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .wt {
+    position: absolute;
+    top: 308%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    font-family: 'Galada', cursive;
+    color: aliceblue;
+
+  }
+
+  .ch {
+    position: absolute;
+    top: 408%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    font-family: 'Galada', cursive;
+    color: aliceblue;
+    
+    
+  }
+
+  .qn {
+    position: absolute;
+    top: 408%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    font-family: 'Galada', cursive;
+    color: aliceblue;
+
+  }
+
+/* .wt {
+
+    margin-left: 860px;
+    margin-top:-2000px;
+} */
+
+/* .nav1 a.active {
+
+    background-color: #d1244f;
+    color: white;
+} */
+
+/* .nav2 a {
+
+    position: absolute;
+    left: 500px;
+}
+
+.nav3 a {
+
+    position: absolute;
+    left: 700px;
+}
+
+.nav4 a {
+
+    position: absolute;
+    left: 900px;
+  
+} */
+
+
+
+
+
+    
